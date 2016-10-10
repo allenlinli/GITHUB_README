@@ -9,6 +9,9 @@ Theose are the showcase projects.
 [allenlinli/FerrisWheel](https://github.com/allenlinli/FerrisWheel)    
 `#`CustomUI #XCTest #Audio #UserInteraction     
 
+[allenlinli/MelbourneWeather](https://github.com/allenlinli/MelbourneWeather)
+`#`MVVM-like-structure #decoupleable #expanable 
+
 More Info:  
 [About Me](https://about.me/allenlinli)  
  
